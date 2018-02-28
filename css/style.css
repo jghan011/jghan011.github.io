@@ -1,0 +1,126 @@
+.nav-pills{
+  
+  font-size:25px;
+  font-family:;
+    background-color:black;
+  margin-bottom:0px
+}
+
+
+.btn-default{
+background-color:black;
+font-size:25px;
+color:white;
+ border-radius:5%; 
+  margin-top:100px
+}
+body{
+   font-family:Arial Black;
+  margin:px;
+  color:black;
+  
+  
+}
+.btnlist{
+text-align:center; 
+ font-family:arial black;
+   font-size: 400%
+}
+p{
+  font-size:50%;
+  font-family:lobster;
+  color:white;
+  text-align:center;
+  
+}
+h1{
+  font-size:65px;
+  font-family:lobster;
+}
+
+.page1{
+  background:url("http://res.cloudinary.com/dzbcizrmm/image/upload/c_scale,h_2147,w_1952/v1502234432/marcus-castro-310949_6_onwdw3.jpg");
+  padding-top:10%;
+  size:0%;
+  text-align:center;
+    background-size:cover;
+    height:2500px;
+   
+  color:white
+  
+}
+img{
+  width:45%;
+  height:auto;
+
+  
+}
+
+
+.grayscale{
+  webkit-filter:grayscale(100%);
+  filter:grayscale(100%);
+  
+}
+
+.bottom{
+  position:absolute;
+   top:-430px;
+   right:-500px;
+  bottom: 300px;
+   
+  
+}
+
+.page2{
+ background:url("http://res.cloudinary.com/dzbcizrmm/image/upload/c_scale,h_1940,w_1735/v1502161675/alex-jodoin-246078_hd3au4.jpg");
+  backgroudn-size:cover;
+  height:1700px;
+   
+ 
+}
+.Ronaldinho{
+ position:absolute; 
+  top:200px;
+  left:270px;
+  border:8px solid black;
+  
+}
+
+.hello{
+   position:absolute;
+  top:199px;
+  right:-120px;
+  height:295px;
+  width:240px;
+   border:8px solid black;  
+}
+
+.comingsoon{
+  
+ left:940px;
+  top:200px;
+  height:100%;
+  
+   
+  
+}
+.page3{
+  background:url("https://res.cloudinary.com/dzbcizrmm/image/upload/c_scale,h_2276,w_2423/v1504467544/dino-reichmuth-98982_amp1lt.jpg");
+  background-size:cover;
+  height:1000px;
+  
+}
+
+.contactme{
+ postion:absolute;
+  right:-100px;
+  top:280px;
+  size:100%;
+  border:9px solid black;
+  
+}
+
+
+  
+  
